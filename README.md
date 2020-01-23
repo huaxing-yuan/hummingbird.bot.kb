@@ -3,4 +3,15 @@ This repository is the knowledge base used for Hummingbird Q&A Bot. The Hummingb
  - Hummingbird APP
  - And Test Framework
 
-The Hummingbird Bot can be accessed via its professional edition of the application.
+The Hummingbird Bot can be accessed via:
+ * Hummingbird Professional Edition.
+ * Hummingbird Online
+
+## Contents
+This Bot knowledge base contains
+#### [Hummingbird Basics](./en-US/Basics.md)
+#### [Hummingbird Glossary](./en-US/Glossary.md)
+#### [ISTQB Terms](./en-US/IstqbTerms.md)
+#### [Chit-chat](./en-US/qna_chitchat_the_comic.tsv)
+
+
