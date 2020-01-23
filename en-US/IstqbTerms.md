@@ -1,3 +1,8 @@
+# ISTQB Terms
+Copyright Notice
+This document may be copied in its entirety, or extracts made, if the source is acknowledged.
+Copyright © International Software Testing Qualifications Board (hereinafter called ISTQB®).
+
 ### abnormal end
 Synonyms: abnormal termination
 
@@ -1288,7 +1293,7 @@ Model-based test approach whereby test cases are generated and executed simultan
 ### open source tool
 A software tool that is available to all potential users in source code form, usually via the internet. Its users are permitted, usually under license, to study change, improve and, at times, to distribute the software.
 
-### open�loop-system
+### openloop-system
 A system in which controlling action or input is independent of the output or changes in output.
 
 ### operability
