@@ -23,3 +23,10 @@ Zip archive version does not require installation. Download the latest Zip versi
 ### May enterprise users use the free version of Hummingbird
 ### Can Hummingbird community be used in an Entreprise
 Hummingbird Community Edition is free for personal and commercial use. It can be used in an Enterprise environment. If you prepared to use Hummingbird for a privacy or data critical project, please make an appointment with your IT Security and Data privacy department.
+
+### What are included in Professional Edition
+### What are included in Enterprise Edition
+In Professional Edition, limits set for community editions are removed. There are no limitation in Processing Rules, Performance Tests. You will unlock the advanced script editor with auto-completion and code proofing and many other test automation capabilities.
+
+For enterprise user, you may also synchronise test projects, data and settings. 
+
